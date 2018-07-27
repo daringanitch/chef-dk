@@ -1,4 +1,16 @@
-# ChefDK 2.5 Release Notes
+# ChefDK 2.5.13 Release Notes
+
+## Chef 13.10.0
+
+ChefDK now ships with Chef 13.10.0. See <https://docs.chef.io/release_notes.html> for more information on what's new.
+
+## Security Updates
+
+### Ruby
+
+Ruby has been updated to 2.4.4 to resolve `CVE-2018-8780`, `CVE-2018-8779`, `CVE-2018-8778`, `CVE-2018-8777`, `CVE-2018-6914`, `CVE-2017-17790`, and `CVE-2017-17742`.
+
+# ChefDK 2.5.3 Release Notes
 
 ## Rename `smoke` tests to `integration` tests.
 
